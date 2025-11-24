@@ -1,0 +1,8 @@
+.env.production
+.aiignore
+.dockerignore 
+docker-compose.yaml
+Dockerfile
+dev.Dockerfile
+bun.lock
+node_modules
